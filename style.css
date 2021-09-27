@@ -23,8 +23,8 @@ header {
 .slider--width {
   height: 100%;
   display: flex;
-  width:calc(100vw*3);
-  transition: all ease 0.3;
+  transition: all ease 0.3s;
+  
 }
 .slider--item {
     width:100vw;
